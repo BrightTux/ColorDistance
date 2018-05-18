@@ -19,3 +19,8 @@ In order to simplify the process, the source code used will loop through 960 dif
 1. The program will generate a file "colorIndexes.txt" and a folder called "960HSVimages"
 2. If you would like to view the color-measure distance in the browser, rename the `colorIndexes.txt` to `colorIndexes.html`
 3. The `colorindexes_withmacro.xlsm` file is used to generate the `colorIndexes_wTable.pdf` file. This excel sheet highlights all the highest value for each row to indicate the closest resemblence of colors 
+
+
+# Screenshot
+
+https://raw.githubusercontent.com/BrightTux/ColorDistance/master/screenshot/excelProduced.JPG

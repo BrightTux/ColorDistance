@@ -24,3 +24,8 @@ In order to simplify the process, the source code used will loop through 960 dif
 # Screenshot
 
 ![Image of Final Product](https://raw.githubusercontent.com/BrightTux/ColorDistance/master/screenshot/excelProduced.JPG)
+
+
+# Credits
+
+1. https://www.compuphase.com/cmetric.htm for their low-cost estimation of LUV color distance from RGB values.

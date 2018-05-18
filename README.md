@@ -25,6 +25,8 @@ In order to simplify the process, the source code used will loop through 960 dif
 
 ![Image of Final Product](https://raw.githubusercontent.com/BrightTux/ColorDistance/master/screenshot/excelProduced.JPG)
 
+![Color Samples](https://raw.githubusercontent.com/BrightTux/ColorDistance/master/screenshot/color%20palletes.JPG) 
+
 
 # Credits
 
